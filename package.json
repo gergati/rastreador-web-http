@@ -7,10 +7,18 @@
     "start": "node main.js",
     "test": "jest"
   },
-  "keywords": ["nodejs", "https", "url", "web"],
+  "keywords": [
+    "nodejs",
+    "https",
+    "url",
+    "web"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^25.0.1"
   }
 }
