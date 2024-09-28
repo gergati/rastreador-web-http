@@ -1,7 +1,7 @@
 {
   "name": "rastreador-web-http",
   "version": "1.0.0",
-  "description": "Aprendiendo HTTP",
+  "description": "Aprendiendo HTTPs",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
@@ -13,8 +13,12 @@
     "url",
     "web"
   ],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gergati/rastreador-web-http"
+  },
+  "author": "German Gatica",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
   },
