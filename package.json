@@ -1,0 +1,16 @@
+{
+  "name": "rastreador-web-http",
+  "version": "1.0.0",
+  "description": "Aprendiendo HTTP",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": ["nodejs", "https", "url", "web"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
